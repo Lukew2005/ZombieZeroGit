@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd25c1a64fa0d924897a035800ab4c75
+timeCreated: 1497633948
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93246
+  packageName: Spaceship Fighter IB
+  packageVersion: 1.0
+  assetPath: Assets/Spaceship Fighter/Scene.unity
+  uploadId: 185454
