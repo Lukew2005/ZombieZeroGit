@@ -2,20 +2,26 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.UI;
 
 public class PlayerHealthController : MonoBehaviour
 {
     public static PlayerHealthController instance;
 
 
-    public int maximumHealth;
+    public float maximumHealth = 100f;
     
-    public int currentHealth;
+    public float currentHealth;
 
     public float invincibleLength = 1f;
 
     private float invincCounter;
+    
+    
+    //Luke's Updated Health Bar
+
+    public Image healthBar;
+
 
 
 
@@ -48,6 +54,12 @@ public class PlayerHealthController : MonoBehaviour
         {
             invincCounter -= Time.deltaTime;
         }
+
+
+
+        //Luke UI
+        float fillAmount = currentHealth / maximumHealth;
+        healthBar.fillAmount = fillAmount;
     }
 
 
