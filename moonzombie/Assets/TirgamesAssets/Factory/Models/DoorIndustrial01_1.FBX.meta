@@ -1,11 +1,17 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:moonzombie/Assets/TirgamesAssets/Factory/Models/DoorIndustrial01_1.FBX.meta
 guid: 9b417a3d80d3d69499d4cb8530a360c6
 timeCreated: 1526637411
+========
+guid: 0bd852ab74019cc41bd130f07884b46c
+timeCreated: 1526709084
+>>>>>>>> Paul:moonzombie/Assets/TirgamesAssets/Factory/Models/DoorIndustrial01_2.FBX.meta
 licenseType: Store
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: Border
+<<<<<<<< HEAD:moonzombie/Assets/TirgamesAssets/Factory/Models/DoorIndustrial01_1.FBX.meta
     100002: //RootNode
     100004: Left
     100006: Right
@@ -22,6 +28,19 @@ ModelImporter:
     4300000: Border
     4300002: Left
     4300004: Right
+========
+    100002: Door
+    100004: //RootNode
+    400000: Border
+    400002: Door
+    400004: //RootNode
+    2300000: Border
+    2300002: Door
+    3300000: Border
+    3300002: Door
+    4300000: Border
+    4300002: Door
+>>>>>>>> Paul:moonzombie/Assets/TirgamesAssets/Factory/Models/DoorIndustrial01_2.FBX.meta
   materials:
     importMaterials: 1
     materialName: 0
@@ -97,5 +116,9 @@ AssetOrigin:
   productId: 62597
   packageName: Abandoned Factory (Lite)
   packageVersion: 1.6
+<<<<<<<< HEAD:moonzombie/Assets/TirgamesAssets/Factory/Models/DoorIndustrial01_1.FBX.meta
   assetPath: Assets/TirgamesAssets/Factory/Models/DoorIndustrial01_1.FBX
+========
+  assetPath: Assets/TirgamesAssets/Factory/Models/DoorIndustrial01_2.FBX
+>>>>>>>> Paul:moonzombie/Assets/TirgamesAssets/Factory/Models/DoorIndustrial01_2.FBX.meta
   uploadId: 746142

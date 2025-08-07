@@ -1,8 +1,13 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:moonzombie/Assets/Realistic Tree/Source/Materials.meta
 guid: 78065bda31796d54a9d164c8375fb4fa
+========
+guid: 116598a8e20e73b4192941120a568445
+>>>>>>>> Paul:moonzombie/Assets/TirgamesAssets/Factory/Environment/SkyBoxes/Materials.meta
 folderAsset: yes
+timeCreated: 1526738724
+licenseType: Store
 DefaultImporter:
-  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
