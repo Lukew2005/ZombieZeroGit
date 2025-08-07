@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b4b2e0fd6d42004fb5ef3e72e0b55e4
+timeCreated: 1497631343
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93246
+  packageName: Spaceship Fighter IB
+  packageVersion: 1.0
+  assetPath: Assets/Spaceship Fighter/Prefabs/Prefab2.prefab
+  uploadId: 185454
