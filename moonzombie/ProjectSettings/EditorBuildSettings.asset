@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/AndyProject/_Scenes/MainMenu.unity
+    path: Assets/_AndyProject/_Scenes/MainMenu.unity
     guid: edd26291e16eb494d8913d07de8fba00
   - enabled: 1
     path: Assets/AndyProject/_Scenes/Tutorial Level.unity
