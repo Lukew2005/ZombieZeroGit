@@ -33387,7 +33387,7 @@ MonoBehaviour:
   groundCheckPoint: {fileID: 7519900706075407219}
   whatIsGround:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 1024
   playerAnimator: {fileID: 848677080450957878}
   firePoint: {fileID: 6548093641054803377}
   allGuns: []
@@ -45001,7 +45001,7 @@ GameObject:
   - component: {fileID: 6037404213979864518}
   - component: {fileID: 6037404213900230093}
   - component: {fileID: 6856348295875413736}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: groundTile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
