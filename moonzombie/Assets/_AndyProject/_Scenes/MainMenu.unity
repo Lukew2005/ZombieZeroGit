@@ -1646,7 +1646,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7bf2bd295ce533e438d8b3c08e4fdae1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  firstLevel: Level1
+  firstLevel: NewLevel2
   continueButton: {fileID: 1721643333}
 --- !u!114 &2020148257
 MonoBehaviour:

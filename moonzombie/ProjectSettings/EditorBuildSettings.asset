@@ -9,8 +9,17 @@ EditorBuildSettings:
     path: Assets/_AndyProject/_Scenes/MainMenu.unity
     guid: edd26291e16eb494d8913d07de8fba00
   - enabled: 1
-    path: Assets/AndyProject/_Scenes/Tutorial Level.unity
+    path: Assets/_AndyProject/_Scenes/Tutorial Level.unity
+    guid: 1cec02a993fdf644d860fa0f57f0d779
+  - enabled: 1
+    path: Assets/_AndyProject/_Scenes/NewLevel1.unity
+    guid: 330f36222babba74dbf48d5845f844a4
+  - enabled: 1
+    path: Assets/_AndyProject/_Scenes/NewLevel2.unity
     guid: 27ea927980a106d4d9582345fe7a07c1
+  - enabled: 1
+    path: Assets/_AndyProject/_Scenes/GameComplete.unity
+    guid: 0077c81d133d6b34b85f31214263a296
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

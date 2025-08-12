@@ -80,7 +80,7 @@ public class BulletController : MonoBehaviour
             //Debug.Log("Hit Player at " + transform.position);
 
             // call the method on the 'player health' script to damage the player with the amount of 'damage'
-            ///PlayerHealthController.instance.DamagePlayer(damage);
+            PlayerHealthController.instance.DamagePlayer(damage);
         }
 
         // destroy the projectile
